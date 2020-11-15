@@ -1,0 +1,7 @@
+#/bar/**.*.js
+/bin
+/include
+/lib
+/share
+lib64
+
